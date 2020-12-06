@@ -22,7 +22,7 @@ The problem with this approach is that replacing content inside an HTML page via
 
 ## Sample Usage
 
-![](./node_example.mov)
+![](./nodeexample.mov)
 
 ## Test Suite
 
