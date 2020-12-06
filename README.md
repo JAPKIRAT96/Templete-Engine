@@ -2,6 +2,10 @@
 
 A Node CLI that takes employee information and generates an HTML summary page
 
+## Dependencies
+1. inquirer
+2. Jest
+
 ## Approach
 
 Breaking down the requirements, I separated out the objective into the following parts:
