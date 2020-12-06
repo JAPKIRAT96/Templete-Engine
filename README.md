@@ -22,7 +22,7 @@ The problem with this approach is that replacing content inside an HTML page via
 
 ## Sample Usage
 
-[](./nodeexample.mov)
+The Full Movie file showing functionality of the application can be found [here](./nodeexample.mov)
 
 ## Test Suite
 
